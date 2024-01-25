@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+.mainbody{
+	display: flex;
+	background-color: silver;
+	justify-content: center;
+	margin-top: 200px;
+	margin-left: 400px;
+	margin-right: 450px;
+	
+	padding: 20px;
+	background-image: url(https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82);
+	
+	
+	
+}
+.img{
+	border-radius: 300px;
+	border: 3px solid white;
+}
+.h1{
+	padding-left: 48px;
+}
+
+.p{
+	padding-left: 40px;
+}
+.body{
+	background-color: black;
+}
+.a{
+	padding-left: 20px;
+}
+
+.body1{
+	text-align: center;
+}
